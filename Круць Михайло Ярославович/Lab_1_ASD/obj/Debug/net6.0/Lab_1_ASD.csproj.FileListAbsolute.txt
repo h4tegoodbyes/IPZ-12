@@ -1,0 +1,15 @@
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\bin\Debug\net6.0\Lab_1_ASD.exe
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\bin\Debug\net6.0\Lab_1_ASD.deps.json
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\bin\Debug\net6.0\Lab_1_ASD.runtimeconfig.json
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\bin\Debug\net6.0\Lab_1_ASD.dll
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\bin\Debug\net6.0\ref\Lab_1_ASD.dll
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\bin\Debug\net6.0\Lab_1_ASD.pdb
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\Lab_1_ASD.csproj.AssemblyReference.cache
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\Lab_1_ASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\Lab_1_ASD.AssemblyInfoInputs.cache
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\Lab_1_ASD.AssemblyInfo.cs
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\Lab_1_ASD.csproj.CoreCompileInputs.cache
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\Lab_1_ASD.dll
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\ref\Lab_1_ASD.dll
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\Lab_1_ASD.pdb
+C:\Users\Mikhaylo\source\repos\Lab_1_ASD\obj\Debug\net6.0\Lab_1_ASD.genruntimeconfig.cache

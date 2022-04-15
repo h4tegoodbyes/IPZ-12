@@ -1,0 +1,8 @@
+C:\Users\tripp\source\ASD\ASD1_AvruschenkoTest\ASD1_AvruschenkoTest\bin\Debug\ASD1_AvruschenkoTest.exe.config
+C:\Users\tripp\source\ASD\ASD1_AvruschenkoTest\ASD1_AvruschenkoTest\bin\Debug\ASD1_AvruschenkoTest.exe
+C:\Users\tripp\source\ASD\ASD1_AvruschenkoTest\ASD1_AvruschenkoTest\bin\Debug\ASD1_AvruschenkoTest.pdb
+C:\Users\tripp\source\ASD\ASD1_AvruschenkoTest\ASD1_AvruschenkoTest\obj\Debug\ASD1_AvruschenkoTest.csproj.AssemblyReference.cache
+C:\Users\tripp\source\ASD\ASD1_AvruschenkoTest\ASD1_AvruschenkoTest\obj\Debug\ASD1_AvruschenkoTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\tripp\source\ASD\ASD1_AvruschenkoTest\ASD1_AvruschenkoTest\obj\Debug\ASD1_AvruschenkoTest.csproj.CoreCompileInputs.cache
+C:\Users\tripp\source\ASD\ASD1_AvruschenkoTest\ASD1_AvruschenkoTest\obj\Debug\ASD1_AvruschenkoTest.exe
+C:\Users\tripp\source\ASD\ASD1_AvruschenkoTest\ASD1_AvruschenkoTest\obj\Debug\ASD1_AvruschenkoTest.pdb

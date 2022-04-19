@@ -1,0 +1,12 @@
+/Users/bogdanmychkovskyi/Desktop/АСД/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/bin/Debug/ASD_Lab1_MychkovskyiBogdan.exe
+/Users/bogdanmychkovskyi/Desktop/АСД/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/bin/Debug/ASD_Lab1_MychkovskyiBogdan.pdb
+/Users/bogdanmychkovskyi/Desktop/АСД/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/obj/Debug/ASD_Lab1_MychkovskyiBogdan.csprojAssemblyReference.cache
+/Users/bogdanmychkovskyi/Desktop/АСД/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/obj/Debug/ASD_Lab1_MychkovskyiBogdan.csproj.CoreCompileInputs.cache
+/Users/bogdanmychkovskyi/Desktop/АСД/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/obj/Debug/ASD_Lab1_MychkovskyiBogdan.exe
+/Users/bogdanmychkovskyi/Desktop/АСД/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/obj/Debug/ASD_Lab1_MychkovskyiBogdan.pdb
+/Users/bogdanmychkovskyi/Desktop/АСД/АСД Лаб 1 Мичковський/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/bin/Debug/ASD_Lab1_MychkovskyiBogdan.exe
+/Users/bogdanmychkovskyi/Desktop/АСД/АСД Лаб 1 Мичковський/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/bin/Debug/ASD_Lab1_MychkovskyiBogdan.pdb
+/Users/bogdanmychkovskyi/Desktop/АСД/АСД Лаб 1 Мичковський/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/obj/Debug/ASD_Lab1_MychkovskyiBogdan.csprojAssemblyReference.cache
+/Users/bogdanmychkovskyi/Desktop/АСД/АСД Лаб 1 Мичковський/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/obj/Debug/ASD_Lab1_MychkovskyiBogdan.csproj.CoreCompileInputs.cache
+/Users/bogdanmychkovskyi/Desktop/АСД/АСД Лаб 1 Мичковський/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/obj/Debug/ASD_Lab1_MychkovskyiBogdan.exe
+/Users/bogdanmychkovskyi/Desktop/АСД/АСД Лаб 1 Мичковський/ASD_Lab1_MychkovskyiBogdan/ASD_Lab1_MychkovskyiBogdan/obj/Debug/ASD_Lab1_MychkovskyiBogdan.pdb

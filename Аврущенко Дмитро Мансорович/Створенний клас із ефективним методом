@@ -1,1 +1,50 @@
 
+
+
+namespace ASD
+{
+    internal class Node
+    {
+        public int Count { get; set; }
+        public int Data { get; set; }
+        public Node next_ind;
+        public Node head;
+        public Node()
+        {
+            Count = 0;
+            head = null;
+            next_ind = null;
+        }
+        public Node(int data)
+        {
+            Data = data;
+            next_ind = null;
+        }
+        //У цьому ж методі ми додаємо елемент у кінець, але швидкість зменшується із кількістю наявних елементів
+        //А саме із-за наявних перевірок, щоб не вийти за границі списку.
+        //Якщо ми маємо мільйон елементів то на останній елемент необхідно зробити мільйон операцій 
+        //Тому я можу прийти до висновку, що наступний метод не є ефективним
+        public void AddLast(int data)
+        {
+            Count++;
+            if (head == null) { head = new Node(data); }
+            else
+            {
+                Node last = head;
+                while (last.next_ind != null) { last = last.next_ind; }
+                last.next_ind = new Node(data);
+            }
+        }
+        //Щоб поставити елементи у правильному порядку від 1 до n необхіно лише передавати у метод (n - 1)
+        public void AddFirst(int data)
+        {
+            Count++;
+            Node temp = new Node(data);
+            temp.next_ind = head;
+            head = temp;
+            
+        }
+
+    }
+}
+

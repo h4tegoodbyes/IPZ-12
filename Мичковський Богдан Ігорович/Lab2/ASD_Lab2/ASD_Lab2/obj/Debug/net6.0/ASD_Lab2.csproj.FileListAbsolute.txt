@@ -1,0 +1,15 @@
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/bin/Debug/net6.0/ASD_Lab2
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/bin/Debug/net6.0/ASD_Lab2.deps.json
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/bin/Debug/net6.0/ASD_Lab2.runtimeconfig.json
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/bin/Debug/net6.0/ASD_Lab2.dll
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/bin/Debug/net6.0/ASD_Lab2.pdb
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ASD_Lab2.csproj.AssemblyReference.cache
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ASD_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ASD_Lab2.AssemblyInfoInputs.cache
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ASD_Lab2.AssemblyInfo.cs
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ASD_Lab2.csproj.CoreCompileInputs.cache
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ASD_Lab2.dll
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/refint/ASD_Lab2.dll
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ASD_Lab2.pdb
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ASD_Lab2.genruntimeconfig.cache
+/Users/bogdanmychkovskyi/Desktop/АСД/Lab2/ASD_Lab2/ASD_Lab2/obj/Debug/net6.0/ref/ASD_Lab2.dll

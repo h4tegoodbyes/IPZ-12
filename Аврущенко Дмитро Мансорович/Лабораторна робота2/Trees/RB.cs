@@ -252,12 +252,7 @@ namespace BinaryTrees
                 RemoveFix(X);
             }
         }
-        //private Node TreeMin(Node tree)
-        //{
-        //    while (tree.LeftNode != null) { tree = tree.LeftNode; }
-        //    return tree;
-        //}
-
+        
         private Node TreeSuccessor(Node X)
         {
             Node temp = X;
@@ -267,11 +262,6 @@ namespace BinaryTrees
 
             return temp;
         }
-
-
-
-
-
 
         private void RemoveFix(Node x)
         {

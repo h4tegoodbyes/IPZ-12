@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -206,21 +206,18 @@ namespace BinaryTrees
         public void RemoveNode(T Data)
         {
             Node item = SearchNode(Data, Root);
+            if (item == null) { Console.WriteLine("Nothing to delete!"); return; }
             Node X = null;
             Node Y = null;
 
-            if (item == null)
-            {
-                Console.WriteLine("Nothing to delete!");
-                return;
-            }
+
             if (item.LeftNode == null || item.RightNode == null)
             {
                 Y = item;
             }
             else
             {
-                Y = TreeSuccessor(item);
+                Y = TreeSuccessor(item.RightNode);
             }
             if (Y.LeftNode != null)
             {
@@ -244,7 +241,7 @@ namespace BinaryTrees
             }
             else
             {
-                Y.ParentNode.LeftNode = X;
+                Y.ParentNode.RightNode = X;
             }
             if (Y != item)
             {
@@ -252,32 +249,30 @@ namespace BinaryTrees
             }
             if (Y.Color == false)
             {
-               RemoveFix(X);
+                RemoveFix(X);
             }
         }
-        
-        private Node TreeMin(Node tree)
-        {
-            while (tree.LeftNode != null) { tree = tree.LeftNode; }
-            return tree;
-        }
+        //private Node TreeMin(Node tree)
+        //{
+        //    while (tree.LeftNode != null) { tree = tree.LeftNode; }
+        //    return tree;
+        //}
+
         private Node TreeSuccessor(Node X)
         {
-            if (X.LeftNode != null)
-            {
-                return TreeMin(X);
-            }
-            else
-            {
-                Node Y = X.ParentNode;
-                while (Y != null && X == Y.RightNode)
-                {
-                    X = Y;
-                    Y = Y.ParentNode;
-                }
-                return Y;
-            }
+            Node temp = X;
+
+            while (temp.LeftNode != null)
+                temp = temp.LeftNode;
+
+            return temp;
         }
+
+
+
+
+
+
         private void RemoveFix(Node x)
         {
             while (x != null && x != Root && !IsRed(x))

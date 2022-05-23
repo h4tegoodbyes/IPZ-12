@@ -5,9 +5,10 @@ using ASD_Lab2;
 Random rand = new Random();
 
 Node.Tree binTree = new Node.Tree();
-BinaryRedBlack RB = new BinaryRedBlack();
-AVL check1 = new AVL();
-AVL check2 = new AVL();
+BinaryRedBlack RedBlack = new BinaryRedBlack();
+
+AVL AVL1 = new AVL();
+AVL AVL2 = new AVL();
 
 Console.WriteLine("ASD    Lab 2    Bogdan Mychkovskyi    IPZ-12-1\n\nBinary tree...");
 binTree.Add(10);
@@ -31,6 +32,8 @@ binTree.DisplayTree();
 binTree.DeleteElement(15);
 binTree.DisplayTree();
 
+
+
 /*
 BinaryAVL___template.AVL avl = new BinaryAVL___template.AVL();
 
@@ -53,72 +56,88 @@ avl.FindElement(45);
 ---------------------------------------------------------
 */
 Console.WriteLine("\n\nAVL tree...");
-check1.Add(50);
-check1.Add(17);
-check1.Add(12);
-check1.Add(9);
-check1.Add(14);
-check1.Add(23);
-check1.Add(19);
-check1.Add(72);
-check1.Add(76);
-check1.Add(54);
-check1.Add(67);
-/*
-check1.Delete(9);
-check1.DisplayTree();
-check1.Delete(12);
-check1.DisplayTree();
-check1.Delete(14);
-check1.DisplayTree();
-check1.Delete(17);
-check1.DisplayTree();
-check1.Delete(23);
-check1.DisplayTree();
-check1.Delete(19);
-check1.DisplayTree();
-*/
+AVL1.Add(50);
+AVL1.Add(17);
+AVL1.Add(12);
+AVL1.Add(9);
+AVL1.Add(14);
+AVL1.Add(23);
+AVL1.Add(19);
+AVL1.Add(72);
+AVL1.Add(76);
+AVL1.Add(54);
+AVL1.Add(67);
 
 for (int i = 0; i < 60; i++)
 {
-    check2.Add(rand.Next(0,1000));
+    AVL2.Add(rand.Next(0,1000));
 }
-check2.Add(18);
-check2.Add(28);
-check2.MaxElement();
-check2.MinElement();
-check2.FindElement(18);
-check2.FindElement(1001);
-check2.DisplayTree();
-check2.Delete(18);
-check2.DisplayTree();
+AVL2.Add(18);
+AVL2.Add(28);
+AVL2.MaxElement();
+AVL2.MinElement();
+AVL2.FindElement(18);
+AVL2.FindElement(1001);
+AVL2.DisplayTree();
+AVL2.Delete(18);
+AVL2.DisplayTree();
+
+Console.WriteLine("\n\nRed-black tree...");
+
+/*
+RB.Add(10);
+RB.Add(20);
+RB.Add(30);
+RB.Add(14);
+RB.Add(12);
+RB.Add(13);
+RB.Add(11);
+RB.Add(23);
+*/
+RedBlack.Add(10);
+RedBlack.Add(50);
+RedBlack.Add(60);
+RedBlack.Add(70);
+RedBlack.Add(54);
+RedBlack.Add(44);
+RedBlack.Add(42);
+RedBlack.Add(38);
+RedBlack.MaxElement();
+RedBlack.MinElement();
+RedBlack.SearchNode(10);
+RedBlack.SearchNode(200);
+RedBlack.DisplayTree();
+RedBlack.DeleteElement(44);
+RedBlack.DisplayTree();
 
 
 Console.WriteLine("\n\nSplay tree...");
-SplayTree tree = new SplayTree();
+SplayTree Splaytree = new SplayTree();
 
-tree.Add(9);
-tree.Add(3);
-tree.Add(7);
-tree.Add(20);
-tree.Add(13);
-tree.Add(32);
-tree.Add(1);
-tree.Add(4);
+Splaytree.Add(9);
+Splaytree.Add(3);
+Splaytree.Add(7);
+Splaytree.Add(20);
+Splaytree.Add(13);
+Splaytree.Add(4);
+Splaytree.Add(5);
+Splaytree.Add(0);
+Splaytree.Add(1);
+Splaytree.Add(99);
+Splaytree.Add(8);
 
-tree.Max();
-tree.Min();
-tree.Find(4);
-tree.Find(100);
+Splaytree.Max();
+Splaytree.Min();
+Splaytree.Find(4);
+Splaytree.Find(100);
 
-tree.Delete(3);
-tree.Delete(9);
-tree.DisplayTree();
-tree.Delete(20);
-tree.Delete(5);
-tree.DisplayTree();
-tree.Delete(105);
+Splaytree.DeleteElement(3);
+Splaytree.DeleteElement(9);
+Splaytree.DisplayTree();
+Splaytree.DeleteElement(20);
+Splaytree.DeleteElement(8);
+Splaytree.DisplayTree();
+Splaytree.DeleteElement(105);
 
-
-Console.WriteLine("Done");
+Console.WriteLine("Finish");
 

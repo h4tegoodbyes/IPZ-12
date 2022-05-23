@@ -244,7 +244,7 @@ public class SplayTree
 		} 
 		Root = node;
 	}
-	public void Delete(int data)
+	public void DeleteElement(int data)
 	{
 		if (Root != null)
 		{

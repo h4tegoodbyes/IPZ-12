@@ -201,7 +201,7 @@ namespace ASD_Lab2
                     Node toDelete = Find(data, true);
                     Node toReplace = ToReplace(toDelete);
 
-                    if (toDelete==null) Console.WriteLine("Element do not exist");
+                    if (toDelete == null) Console.WriteLine($"Element {data} not exist");
                     else
                     {
                         if (toDelete.Left == null)
@@ -235,7 +235,6 @@ namespace ASD_Lab2
                 InOrder(Root);
                 Console.WriteLine();
             }
-
             private void InOrder(Node current)
             {
                 if (current != null)

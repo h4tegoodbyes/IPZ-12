@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Desktop\univ\course_1_2\ADS\labs\Console_Lab1\Console_Lab1\bin\Debug\Console_Lab1.exe
+C:\Users\victo\OneDrive\Desktop\univ\course_1_2\ADS\labs\Console_Lab1\Console_Lab1\bin\Debug\Console_Lab1.pdb
+C:\Users\victo\OneDrive\Desktop\univ\course_1_2\ADS\labs\Console_Lab1\Console_Lab1\obj\Debug\Console_Lab1.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\univ\course_1_2\ADS\labs\Console_Lab1\Console_Lab1\obj\Debug\Console_Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\OneDrive\Desktop\univ\course_1_2\ADS\labs\Console_Lab1\Console_Lab1\obj\Debug\Console_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\univ\course_1_2\ADS\labs\Console_Lab1\Console_Lab1\obj\Debug\Console_Lab1.exe
+C:\Users\victo\OneDrive\Desktop\univ\course_1_2\ADS\labs\Console_Lab1\Console_Lab1\obj\Debug\Console_Lab1.pdb
